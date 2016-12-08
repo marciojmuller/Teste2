@@ -1,15 +1,9 @@
 teste
 
 
-<<<<<<< HEAD
-
-
-2
-=======
 2
 
 
 
 
 5
->>>>>>> origin/master
